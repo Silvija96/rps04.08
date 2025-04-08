@@ -13,7 +13,7 @@ _website game project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:
+Site published at: https://github.com/Silvija96/rps04.08
 
 ## 🎯 Project features/goals
 
@@ -38,9 +38,11 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
+
    ```sh
-   git clone -------------------->
+
    ```
+
 2. Install NPM packages
    ```sh
    npm i
